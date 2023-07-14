@@ -1,2 +1,2 @@
 # CrudPersonal
-Crud con Spring
+Crud con Spring JPA, oracle
